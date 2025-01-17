@@ -1,5 +1,4 @@
 # qgis-layerdefinition
-Layer definition files for QGIS
 ## Layer definition file (.qlr) - QGIS
 The layer defintion file (.qlr) is an XML file that contains a pointer to the layer data source in addition to QGIS style information for the layer.
 ## OSM_MVT_LM_Topography
